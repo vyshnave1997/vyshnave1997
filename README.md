@@ -12,8 +12,7 @@ I am a detail-oriented **Software Developer** with expertise in **React.js, Next
 - 💡 **Interests:** Frontend Development, UI/UX, Data Visualization  
 - 👯 **Looking for Collaborations** on Open Source Projects  
 - 💬 Ask me about **React.js, Next.js, Redux, and UI Frameworks**  
-- 📫 Reach me at: **[vyshnave97@gmail.com](mailto:vyshnave97@gmail.com)**  
-
+- 📫 Reach me at: **[mail.vyshnave@gmail.com](mailto:mail.vyshnave@gmail.com)**  
 ---
 
 ## 🛠️ Tech Stack  
