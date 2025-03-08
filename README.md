@@ -5,7 +5,7 @@
 I am a detail-oriented **Software Developer** with expertise in **React.js, Next.js, TypeScript, and modern UI frameworks**. I specialize in **building scalable, user-friendly, and high-performance web applications**. My goal is to develop clean, maintainable, and efficient code while ensuring optimal user experience.
 
 
-🌐 **Check out my portfolio:** [vyshnave-portfolio.netlify.app](https://vyshnave-portfolio.netlify.app/)  
+🌐 **Check out my portfolio:** [vyshnave-portfolio](https://vyshnave-portfolio.netlify.app/)  
 
 ---
 
