@@ -56,6 +56,8 @@ I am a detail-oriented **Software Developer** with expertise in **React.js, Next
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnave1997&layout=compact&theme=tokyonight)
 
 ---
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@your-hackerearth-profile)
+
 
 ## 📌 Featured Projects  
 🔹 **[E-commerce Product Listing](https://github.com/vyshnave1997/ecommerce-listing-page)** - Next.js + Redux-powered e-commerce page with filtering & sorting.  
