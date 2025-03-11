@@ -66,9 +66,6 @@ I am a detail-oriented **Software Developer** with expertise in **React.js, Next
 
 
 ## 📌 Featured Projects  
-🔹 **[E-commerce Product Listing](https://github.com/vyshnave1997/ecommerce-listing-page)** - Next.js + Redux-powered e-commerce page with filtering & sorting.  
-🔹 **[Portfolio Website](https://github.com/vyshnave1997/portfolio)** - My personal portfolio showcasing my work & skills.  
-🔹 **[React Dashboard](https://github.com/vyshnave1997/react-dashboard)** - A modern React admin dashboard with data visualization.  
 
 Check out more projects at **[My GitHub](https://github.com/vyshnave1997)** 🚀  
 
