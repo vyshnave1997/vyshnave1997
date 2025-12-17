@@ -101,23 +101,6 @@ const vyshnave = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnave1997&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-## 🏆 Featured Projects
-
-### 🌐 [Project Name 1](link)
-**Tech Stack:** React, Next.js, TypeScript, Tailwind CSS  
-Brief description of what this project does and your key contributions.
-
-### 🎨 [Project Name 2](link)
-**Tech Stack:** Next.js, Three.js, GSAP, MongoDB  
-Brief description showcasing your full-stack and 3D capabilities.
-
-### 📊 [Project Name 3](link)
-**Tech Stack:** React, D3.js, Redux, Chart.js  
-Brief description highlighting data visualization work.
-
----
 
 ## 💼 Professional Experience
 
