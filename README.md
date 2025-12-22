@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vyshnave K
 
-### 🚀Front end and Full-Stack [Next.js] Developer | React & Next.js Specialist | Open Source Enthusiast
+### 🚀Software Developer | React & Next.js Specialist | Open Source Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vyshnave-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.vyshnave@gmail.com)
@@ -15,7 +15,7 @@
 
 ## 🌟 About Me
 
-I am a passionate **Full-Stack Software Developer** specializing in building modern, scalable, and high-performance web applications. With expertise in **React.js, Next.js, TypeScript**, and a strong focus on **user experience** and **clean code architecture**, I create digital solutions that make a difference.
+I am a passionate ** Software Developer** specializing in building modern, scalable, and high-performance web applications. With expertise in **React.js, Next.js, TypeScript**, and a strong focus on **user experience** and **clean code architecture**, I create digital solutions that make a difference.
 ```typescript
 const vyshnave = {
   role: "Full-Stack Developer",
