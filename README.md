@@ -54,217 +54,215 @@ const vyshnave = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
-### 📱 **Mobile Development**
-<table>
+```mermaid
+mindmap
+  root((Vyshnave K))
+    Mobile Development
+      Flutter
+      Dart
+      React Native
+      Android & iOS
+    Frontend
+      React & Next.js
+      TypeScript
+      HTML5 & CSS3
+      jQuery
+    Backend
+      Node.js
+      Express
+      GraphQL
+      REST API
+    Database
+      MongoDB
+      PostgreSQL
+      Firebase
+      SQLite
+    State Management
+      Redux Toolkit
+      Zustand
+      Provider
+      Riverpod
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 **Core Technologies**
+
+</div>
+
+<table align="center">
 <tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-<br>Flutter
+<td valign="top" width="33%">
+
+#### 📱 Mobile Development
+```yaml
+Primary:
+  - Flutter & Dart
+  - React Native
+  
+Platforms:
+  - Android
+  - iOS
+  
+Features:
+  - Cross-platform apps
+  - Native performance
+  - Custom animations
+  - State management
+```
+
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-<br>Dart
+<td valign="top" width="33%">
+
+#### 🌐 Frontend Development
+```yaml
+Core:
+  - React.js
+  - Next.js
+  - TypeScript
+  
+Styling:
+  - Tailwind CSS
+  - SCSS/Sass
+  - Material UI
+  
+Tools:
+  - Webpack
+  - Vite
+  - Figma
+```
+
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
-<br>React Native
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" />
-<br>Android
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="iOS" />
-<br>iOS
+<td valign="top" width="33%">
+
+#### ⚙️ Backend & Database
+```yaml
+Backend:
+  - Node.js
+  - Express
+  - Next.js API
+  
+Database:
+  - MongoDB
+  - PostgreSQL
+  - Firebase
+  - SQLite
+  
+API:
+  - REST
+  - GraphQL
+```
+
 </td>
 </tr>
 </table>
 
-### 🌐 **Frontend Development**
+---
+
+<div align="center">
+
+### 🎯 **Specialized Skills**
+
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-<br>HTML5
+<td align="center" width="25%">
+<br>
+<img src="https://skillicons.dev/icons?i=redux" width="60" alt="State Management"/>
+<br><br>
+<b>State Management</b>
+<br><br>
+Redux • Zustand<br>
+Provider • Riverpod<br>
+Context API
+<br><br>
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-<br>CSS3
+<td align="center" width="25%">
+<br>
+<img src="https://skillicons.dev/icons?i=threejs" width="60" alt="3D & Animation"/>
+<br><br>
+<b>3D & Animation</b>
+<br><br>
+Three.js • GSAP<br>
+D3.js • Chart.js<br>
+Flutter Animations
+<br><br>
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
+<td align="center" width="25%">
+<br>
+<img src="https://skillicons.dev/icons?i=git" width="60" alt="DevOps"/>
+<br><br>
+<b>DevOps & Tools</b>
+<br><br>
+Git • GitHub<br>
+Docker • Postman<br>
+VS Code • Xcode
+<br><br>
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="jQuery" />
-<br>jQuery
+<td align="center" width="25%">
+<br>
+<img src="https://skillicons.dev/icons?i=figma" width="60" alt="UI/UX Design"/>
+<br><br>
+<b>UI/UX Design</b>
+<br><br>
+Figma • Material Design<br>
+Responsive Design<br>
+User Experience
+<br><br>
 </td>
 </tr>
 </table>
 
-### ⚙️ **Backend Development**
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-<br>Express
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js API" />
-<br>Next.js API
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-<br>GraphQL
-</td>
-</tr>
-</table>
+</div>
 
-### 🔄 **State Management**
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
-<br>Redux
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux Toolkit" />
-<br>Redux Toolkit
-</td>
-<td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48" height="48" alt="Zustand" />
-<br>Zustand
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Provider" />
-<br>Provider
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Riverpod" />
-<br>Riverpod
-</td>
-</tr>
-</table>
+---
 
-### 🎨 **UI/UX & Styling**
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="SCSS" />
-<br>SCSS
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
-<br>Tailwind CSS
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
-<br>Material UI
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
-</tr>
-</table>
+<div align="center">
 
-### 📊 **Data Visualization & Animation**
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="48" height="48" alt="D3.js" />
-<br>D3.js
-</td>
-<td align="center" width="96">
-<img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="48" height="48" alt="Three.js" />
-<br>Three.js
-</td>
-<td align="center" width="96">
-<img src="https://www.chartjs.org/media/logo-title.svg" width="48" height="48" alt="Chart.js" />
-<br>Chart.js
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="48" height="48" alt="GSAP" />
-<br>GSAP
-</td>
-</tr>
-</table>
+### 🔥 **Technology Proficiency**
 
-### 💾 **Databases**
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
-<br>SQLite
-</td>
-</tr>
-</table>
+![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-Expert-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Expert-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🛠️ **Tools & Platforms**
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
-<br>Android Studio
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" />
-<br>Xcode
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-</tr>
-</table>
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **Complete Arsenal**
+
+<details>
+<summary><b>🚀 Click to expand full technology stack</b></summary>
+<br>
+
+| Category | Technologies |
+|:---------|:-------------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Frameworks** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **State Management** | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-443E38?style=flat-square) ![Provider](https://img.shields.io/badge/-Provider-02569B?style=flat-square&logo=flutter&logoColor=white) ![Riverpod](https://img.shields.io/badge/-Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Styling** | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Visualization** | ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **IDEs** | ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+</details>
 
 </div>
 
