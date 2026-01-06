@@ -59,120 +59,62 @@ const vyshnave = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667eea','primaryTextColor':'#fff','primaryBorderColor':'#5a67d8','lineColor':'#a0aec0','secondaryColor':'#48bb78','tertiaryColor':'#ed8936','noteBkgColor':'#f7fafc','noteTextColor':'#2d3748'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667eea','primaryTextColor':'#fff','primaryBorderColor':'#5a67d8','lineColor':'#a0aec0','secondaryColor':'#48bb78','tertiaryColor':'#ed8936','noteBkgColor':'#f7fafc','noteTextColor':'#2d3748','tertiaryBorderColor':'#dd6b20','tertiaryTextColor':'#fff'}}}%%
 mindmap
   root((Vyshnave K<br/>Software Developer))
     Mobile Development
       Flutter
-        Dart Language
-        iOS & Android
-        Custom Animations
       React Native
-        Cross-Platform
-        Native Modules
-      State Management
-        Provider
-        Riverpod
-        BLoC Pattern
+      Dart
     
-    Frontend Web
-      React & Next.js
-        Server-Side Rendering
-        Static Generation
-        API Routes
+    Frontend
+      React
+      Next.js
       TypeScript
-        Type Safety
-        Advanced Types
       HTML5 & CSS3
-        Semantic HTML
-        Modern CSS
-      UI Frameworks
-        Material UI
-        Ant Design
-        Chakra UI
-        shadcn/ui
     
-    Backend Development
+    Backend
       Node.js
-        Express Framework
-        RESTful APIs
-      Next.js API
-        Serverless Functions
-        Middleware
+      Express
       GraphQL
-        Schema Design
-        Resolvers
-      Authentication
-        JWT
-        OAuth
+      REST API
     
-    Database Systems
+    Database
       MongoDB
-        NoSQL
-        Aggregations
       PostgreSQL
-        Relational DB
-        Complex Queries
       Firebase
-        Realtime Database
-        Cloud Firestore
       SQLite
-        Mobile Storage
-        Local Data
     
     State Management
       Redux Toolkit
-        Slices
-        Thunks
-        RTK Query
       Zustand
-        Lightweight
-        Simple API
-      Context API
-        React Native
-        Global State
+      Provider
+      Riverpod
     
     UI & Styling
       Tailwind CSS
-        Utility-First
-        Custom Design
-      SCSS/Sass
-        Variables
-        Mixins
-      Styled Components
-        CSS-in-JS
-        Dynamic Styling
-      Bootstrap
-        Responsive Grid
-        Components
+      SCSS
+      Material UI
+      Ant Design
+      Chakra UI
     
-    Visualization & Animation
+    Visualization
       Three.js
-        3D Graphics
-        WebGL
       GSAP
-        Timeline
-        ScrollTrigger
       D3.js
-        Data Viz
-        Charts
       Chart.js
-        Interactive Graphs
-        Analytics
     
-    DevOps & Tools
+    Tools
       Git & GitHub
-        Version Control
-        Collaboration
       Docker
-        Containerization
-        Deployment
       VS Code
-        Extensions
-        Debugging
       Figma
-        UI/UX Design
-        Prototyping
+    
+    Currently Learning
+      React Native
+      DevOps
+      CI/CD
+      Kubernetes
 ```
 
 </div>
@@ -345,10 +287,6 @@ Aceternity UI • Bootstrap
 
 ### 🌟 **Complete Arsenal**
 
-<details>
-<summary><b>🚀 Click to expand full technology stack</b></summary>
-<br>
-
 | Category | Technologies |
 |:---------|:-------------|
 | **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
@@ -359,8 +297,6 @@ Aceternity UI • Bootstrap
 | **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 | **IDEs** | ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-
-</details>
 
 </div>
 
