@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vyshnave K
 
-### 🚀 Software Developer | Flutter & React Specialist | Open Source Enthusiast
+### 🚀 Software Developer | React & Flutter Specialist | Open Source Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vyshnave-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.vyshnave@gmail.com)
