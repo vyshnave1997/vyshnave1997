@@ -59,12 +59,11 @@ const vyshnave = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667eea','primaryTextColor':'#fff','primaryBorderColor':'#5a67d8','lineColor':'#a0aec0','secondaryColor':'#48bb78','tertiaryColor':'#ed8936','noteBkgColor':'#f7fafc','noteTextColor':'#2d3748','tertiaryBorderColor':'#dd6b20','tertiaryTextColor':'#fff'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667eea','primaryTextColor':'#fff','primaryBorderColor':'#5a67d8','lineColor':'#a0aec0','secondaryColor':'#48bb78','tertiaryColor':'#ed8936','noteBkgColor':'#f7fafc','noteTextColor':'#2d3748'}}}%%
 mindmap
   root((Vyshnave K<br/>Software Developer))
     Mobile Development
       Flutter
-      React Native
       Dart
     
     Frontend
@@ -109,13 +108,21 @@ mindmap
       Docker
       VS Code
       Figma
-    
-    Currently Learning
-      React Native
-      DevOps
-      CI/CD
-      Kubernetes
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 **Currently Learning**
+
+![React Native](https://img.shields.io/badge/React_Native-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![DevOps](https://img.shields.io/badge/DevOps-Learning-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Learning-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
