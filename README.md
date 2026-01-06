@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vyshnave K
 
-### 🚀 Full-Stack Developer | Flutter & React Specialist | Open Source Enthusiast
+### 🚀 Software Developer | Flutter & React Specialist | Open Source Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vyshnave-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.vyshnave@gmail.com)
@@ -17,11 +17,11 @@
 
 ## 🌟 About Me
 
-I am a versatile **Full-Stack Developer** with expertise in building modern, scalable applications across web and mobile platforms. Specializing in **React.js, Next.js, Flutter**, and **TypeScript**, I create seamless digital experiences with a strong focus on **performance optimization**, **clean architecture**, and **user-centric design**.
+I am a versatile **Software Developer** with expertise in building modern, scalable applications across web and mobile platforms. Specializing in **React.js, Next.js, Flutter**, and **TypeScript**, I create seamless digital experiences with a strong focus on **performance optimization**, **clean architecture**, and **user-centric design**.
 
 ```typescript
 const vyshnave = {
-  role: "Full-Stack Developer",
+  role: "Software Developer",
   company: "Techfriar Pvt Ltd",
   specializations: ["Web Development", "Mobile Development", "UI/UX"],
   code: ["JavaScript", "TypeScript", "Dart", "HTML", "CSS", "SQL"],
@@ -46,7 +46,7 @@ const vyshnave = {
 - 📱 **Mobile Expertise:** Building cross-platform apps with **Flutter** and native performance
 - 🌐 **Web Expertise:** Crafting responsive, high-performance web applications with **React** & **Next.js**
 - 🌱 **Currently Learning:** Advanced Flutter Animations, WebGL, Microservices Architecture
-- 💡 **Passionate About:** Full-Stack Development, Mobile Apps, UI/UX Design, Data Visualization
+- 💡 **Passionate About:** Software Development, Mobile Apps, UI/UX Design, Data Visualization
 - 👯 **Open to:** Collaborating on Open Source Projects & Innovative Applications
 - 💬 **Ask me about:** React.js, Next.js, Flutter, Redux, TypeScript, State Management, API Integration
 - 📫 **Reach me:** [mail.vyshnave@gmail.com](mailto:mail.vyshnave@gmail.com)
