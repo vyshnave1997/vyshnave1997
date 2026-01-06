@@ -271,20 +271,89 @@ Aceternity UI • Bootstrap
 
 ### 🔥 **Technology Proficiency**
 
-![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square&logo=node.js&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-Expert-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-Advanced-0170FE?style=flat-square&logo=ant-design&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-Advanced-319795?style=flat-square&logo=chakra-ui&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Expert-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-Expert-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=flat-square&logo=postgresql&logoColor=white)
-![ECharts](https://img.shields.io/badge/ECharts-Advanced-AA344D?style=flat-square&logo=apache-echarts&logoColor=white)
+<table>
+<tr>
+<td align="center" style="padding: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter"/>
+<br><strong>Flutter</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" style="padding: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+<br><strong>React</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" style="padding: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
+<br><strong>Next.js</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" style="padding: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+<br><strong>TypeScript</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" style="padding: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+<br><strong>Node.js</strong>
+<br><sub>Advanced</sub>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI"/>
+<br><strong>Material UI</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" style="padding: 20px;">
+<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48" alt="Ant Design"/>
+<br><strong>Ant Design</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" style="padding: 20px;">
+<img src="https://img.icons8.com/color/48/000000/chakra-ui.png" width="48" height="48" alt="Chakra UI"/>
+<br><strong>Chakra UI</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" style="padding: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS"/>
+<br><strong>Tailwind CSS</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" style="padding: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
+<br><strong>MongoDB</strong>
+<br><sub>Advanced</sub>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux"/>
+<br><strong>Redux</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" style="padding: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/>
+<br><strong>Firebase</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" style="padding: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+<br><strong>PostgreSQL</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" style="padding: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="48" height="48" alt="Three.js"/>
+<br><strong>Three.js</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" style="padding: 20px;">
+<img src="https://www.vectorlogo.zone/logos/apache_echarts/apache_echarts-icon.svg" width="48" height="48" alt="ECharts"/>
+<br><strong>ECharts</strong>
+<br><sub>Advanced</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
