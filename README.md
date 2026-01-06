@@ -59,38 +59,120 @@ const vyshnave = {
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667eea','primaryTextColor':'#fff','primaryBorderColor':'#5a67d8','lineColor':'#a0aec0','secondaryColor':'#48bb78','tertiaryColor':'#ed8936','noteBkgColor':'#f7fafc','noteTextColor':'#2d3748'}}}%%
 mindmap
-  root((Vyshnave K))
+  root((Vyshnave K<br/>Software Developer))
     Mobile Development
       Flutter
-      Dart
+        Dart Language
+        iOS & Android
+        Custom Animations
       React Native
-      Android & iOS
-    Frontend
+        Cross-Platform
+        Native Modules
+      State Management
+        Provider
+        Riverpod
+        BLoC Pattern
+    
+    Frontend Web
       React & Next.js
+        Server-Side Rendering
+        Static Generation
+        API Routes
       TypeScript
+        Type Safety
+        Advanced Types
       HTML5 & CSS3
-      jQuery
-    Backend
+        Semantic HTML
+        Modern CSS
+      UI Frameworks
+        Material UI
+        Ant Design
+        Chakra UI
+        shadcn/ui
+    
+    Backend Development
       Node.js
-      Express
+        Express Framework
+        RESTful APIs
+      Next.js API
+        Serverless Functions
+        Middleware
       GraphQL
-      REST API
-    Database
+        Schema Design
+        Resolvers
+      Authentication
+        JWT
+        OAuth
+    
+    Database Systems
       MongoDB
+        NoSQL
+        Aggregations
       PostgreSQL
+        Relational DB
+        Complex Queries
       Firebase
+        Realtime Database
+        Cloud Firestore
       SQLite
+        Mobile Storage
+        Local Data
+    
     State Management
       Redux Toolkit
+        Slices
+        Thunks
+        RTK Query
       Zustand
-      Provider
-      Riverpod
-    UI Libraries
-      Material UI
-      Ant Design
-      Chakra UI
-      shadcn/ui
+        Lightweight
+        Simple API
+      Context API
+        React Native
+        Global State
+    
+    UI & Styling
+      Tailwind CSS
+        Utility-First
+        Custom Design
+      SCSS/Sass
+        Variables
+        Mixins
+      Styled Components
+        CSS-in-JS
+        Dynamic Styling
+      Bootstrap
+        Responsive Grid
+        Components
+    
+    Visualization & Animation
+      Three.js
+        3D Graphics
+        WebGL
+      GSAP
+        Timeline
+        ScrollTrigger
+      D3.js
+        Data Viz
+        Charts
+      Chart.js
+        Interactive Graphs
+        Analytics
+    
+    DevOps & Tools
+      Git & GitHub
+        Version Control
+        Collaboration
+      Docker
+        Containerization
+        Deployment
+      VS Code
+        Extensions
+        Debugging
+      Figma
+        UI/UX Design
+        Prototyping
 ```
 
 </div>
